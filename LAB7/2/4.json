@@ -1,0 +1,9 @@
+{
+  "applications": [
+    {"app_id": "app1", "name": "WeatherApp", "developer": "TechCorp", "version": "1.0.0", "users": 15000, "rating": 4.5, "category": "Weather"},
+    {"app_id": "app2", "name": "FinanceTracker", "developer": "MoneySoft", "version": "2.1.5", "users": 8500, "rating": 4.2, "category": "Finance"},
+    {"app_id": "app3", "name": "SocialNetwork", "developer": "ConnectInc", "version": "3.2.1", "users": 250000, "rating": 4.8, "category": "Social"},
+    {"app_id": "app4", "name": "GameCenter", "developer": "PlayStudios", "version": "1.5.3", "users": 50000, "rating": 4.0, "category": "Games"},
+    {"app_id": "app5", "name": "HealthMonitor", "developer": "WellnessTech", "version": "2.0.0", "users": 12000, "rating": 4.7, "category": "Health"}
+  ]
+}

@@ -1,0 +1,26 @@
+Model,Year,Color,Price,Engine_Volume,Sold
+Toyota Camry,2022,Black,2500000,2.5,Yes
+Honda Civic,2021,White,1800000,1.8,Yes
+BMW X5,2023,Blue,5500000,3.0,No
+Mercedes E-Class,2022,Silver,4800000,2.0,Yes
+Audi A4,2021,Red,3200000,1.8,No
+Hyundai Solaris,2023,Gray,1200000,1.6,Yes
+Kia Rio,2022,White,1300000,1.6,Yes
+Volkswagen Tiguan,2023,Black,2800000,2.0,No
+Nissan Qashqai,2021,Blue,2200000,1.6,Yes
+Ford Focus,2022,Red,1600000,1.5,Yes
+Skoda Octavia,2023,Silver,1900000,1.4,Yes
+Lexus RX,2022,White,4500000,3.5,No
+Mazda CX-5,2021,Black,2400000,2.0,Yes
+Subaru Forester,2023,Green,2600000,2.5,No
+Volvo XC60,2022,Blue,3800000,2.0,Yes
+Renault Duster,2021,Orange,1400000,1.6,Yes
+Chevrolet Cruze,2022,Black,1500000,1.6,No
+Peugeot 308,2023,White,1700000,1.2,Yes
+Citroen C4,2021,Red,1600000,1.6,Yes
+Opel Astra,2022,Blue,1550000,1.4,No
+Land Rover Discovery,2023,Silver,6200000,3.0,No
+Jeep Grand Cherokee,2021,Black,4800000,3.6,Yes
+Porsche Cayenne,2022,White,7800000,3.0,No
+Infiniti Q50,2023,Red,3600000,2.0,Yes
+Mitsubishi Outlander,2021,Gray,2200000,2.0,Yes
